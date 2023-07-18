@@ -5,8 +5,11 @@ Hello there! I'm Himanshu, a passionate React developer with a love for building
 🔭 Current React Projects
 Project 1: TextUtilse
 Project 2: jobsearc
-Project 3: myportfolio 
-🌱 Skills and Interests
+Project 3: myportfolio
+
+
+
+ 🌱 Skills and Interests
 Front-End Development: HTML, CSS, JavaScript, React, Redux
 UI/UX Design: Material-UI, Styled Components
 Testing: Jest, React Testing Library
