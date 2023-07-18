@@ -1,6 +1,5 @@
 
 Welcome to My GitHub Profile!
-About Me
 Hello there! I'm Himanshu, a passionate React developer with a love for building user-friendly and performant web applications. This is my GitHub profile where you can find some of my latest React projects and contributions. Feel free to explore my repositories and get in touch if you have any questions or collaboration opportunities!
 
 🔭 Current React Projects
